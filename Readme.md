@@ -232,12 +232,11 @@ Contributing to technical activities, digital solutions and team-based college i
 </div>
 
 ---
-
 ## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-trophies.vercel.app/?username=namit27y-dotcom&theme=vue&no-frame=true&row=1&column=6" width="98%"/>
+<img src="./profile/trophy.svg" width="98%" alt="GitHub Trophies"/>
 
 </div>
 
