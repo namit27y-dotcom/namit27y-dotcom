@@ -242,21 +242,14 @@ Contributing to technical activities, digital solutions and team-based college i
 </div>
 
 ---
-
 ## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/namit27y-dotcom/namit27y-dotcom/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/namit27y-dotcom/namit27y-dotcom/output/github-contribution-grid-snake.svg" width="98%" alt="GitHub Contribution Snake"/>
-
-<br/>
-
-<sub>🐍 Contribution activity generated automatically with GitHub Actions</sub>
-
-</div>
-
----
-
+<p align="center">
+  🐍 Contribution activity generated automatically with GitHub Actions
+</p>
 ## 🎯 2026 Goals
 
 - [x] Build real-world web applications
