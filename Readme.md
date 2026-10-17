@@ -2,20 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0077B5&height=200&section=header&text=Namit%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Learner&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=B.Tech+CSE+%40+Pillai+College;SGPA%3A+9.18+%F0%9F%8E%93;Building+CampusEats+%F0%9F%8D%B1;Learning+AI%2FML+%F0%9F%A4%96;Webmaster+%7C+IEEE+Technical+Committee" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Building+Krishi+Saathi+%26+CampusEats;Learning+DSA+and+AI%2FML;Open+to+SDE+Internships" alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://github.com/namit27y-dotcom">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/namit-yadav-b3516b392/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://campus-eats-ruby.vercel.app/">
 <img src="https://img.shields.io/badge/Live-CampusEats-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://krishi-saathi-three.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Krishi%20Saathi-0077B5?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -28,9 +29,9 @@
 
 <div align="center">
 
-| 🎓 SGPA | 🏫 College | 🌟 Current Role | 🏆 Achievement |
+| 🎓 SGPA | 🌟 Current Role | 🏆 Achievement | 💼 Looking For |
 |:---:|:---:|:---:|:---:|
-| **9.18** | Pillai College of Engineering | **Webmaster, IEEE Technical Committee** | Smart India Hackathon |
+| **9.18** | **Webmaster, IEEE Technical Committee** | Smart India Hackathon | **SDE Internships** |
 
 </div>
 
@@ -38,25 +39,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science Engineering Student** at Pillai College of Engineering.
+I'm a **B.Tech Computer Science student** who enjoys turning ideas into working software. I build full-stack web apps, practice **Data Structures & Algorithms in Java**, and am learning **AI/ML with NumPy and Pandas**.
 
-💻 Passionate about **Full-Stack Development and Software Engineering**.
-
-🤖 Currently learning **AI/ML, NumPy, Pandas and Data Analysis**.
-
-🧠 Practicing **Data Structures & Algorithms using Java**.
-
-🌐 Building real-world web applications and practical projects.
-
-🌟 **Webmaster — IEEE College Technical Committee**.
-
-🏫 **Technical Committee Member — NSS & Tapas**.
-
-🏆 Participated in **Smart India Hackathon**.
-
-🚀 Interested in building practical, scalable and impactful software solutions.
-
-🎯 Goal: Become a strong **Software Engineer**.
+My goal is to become a strong **Software Engineer** who builds practical, scalable and impactful products. I'm currently looking for an **SDE internship**.
 
 ---
 
@@ -70,14 +55,12 @@
 
 <br/><br/>
 
-### 📊 Data, AI & Other Technologies
+### 📊 Data, AI & Other
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%2FML-Learning-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge&logo=coreldraw&logoColor=white"/>
 
 </div>
 
@@ -87,57 +70,51 @@
 
 <div align="center">
 
+<a href="https://github.com/namit27y-dotcom/KRISHI-SAATHI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=namit27y-dotcom&repo=KRISHI-SAATHI&theme=vue-dark&hide_border=true"/>
+</a>
 <a href="https://github.com/namit27y-dotcom/CampusEats">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=namit27y-dotcom&repo=CampusEats&theme=vue-dark&hide_border=true"/>
 </a>
 
 </div>
 
+### 🌾 Krishi Saathi
+
+A farming-focused platform that helps farmers access useful agricultural information and resources.
+
+- Farmer and seller workflows, farming lessons and guides
+- Gemini AI integration, weather and Google Maps integration
+- Multilingual user experience
+
+🔗 [GitHub](https://github.com/namit27y-dotcom/KRISHI-SAATHI) · 🌐 [Live Demo](https://krishi-saathi-three.vercel.app/)
+
+---
+
 ### 🍱 CampusEats
 
-**College Canteen Management Platform**
+A campus canteen platform for managing menus, orders, tokens and kitchen operations.
 
-A smart college canteen platform designed for food ordering, token management and canteen operations.
+- User authentication, menu and order management
+- Kitchen workflows, ratings and wallet functionality
 
 **Tech Stack:** React.js • TypeScript • Tailwind CSS • Node.js • Express.js • MySQL
 
-🔗 **Live:** https://campus-eats-ruby.vercel.app/
-
-🔗 **GitHub:** https://github.com/namit27y-dotcom/CampusEats
+🔗 [GitHub](https://github.com/namit27y-dotcom/CampusEats) · 🌐 [Live Demo](https://campus-eats-ruby.vercel.app/)
 
 ---
 
 ### 💱 Currency Converter
 
-Responsive currency conversion application with live exchange rates and swap functionality.
+A responsive currency converter with live exchange rates, swap functionality, API error handling, and request cancellation and caching.
 
 **Tech Stack:** HTML • CSS • JavaScript • REST API
 
-🔗 **Live:** https://currency-converter-ebon-eight.vercel.app/
+🌐 [Live Demo](https://currency-converter-ebon-eight.vercel.app/)
 
 ---
 
-### 🕐 Python Analog Clock
-
-Real-time desktop analog clock with date and day information.
-
-**Tech Stack:** Python • Turtle
-
----
-
-### 🛒 Amazon Clone
-
-Responsive e-commerce interface created to practice frontend development and responsive layouts.
-
-**Tech Stack:** HTML5 • CSS3
-
----
-
-### 📄 ATS-Friendly Resume Builder
-
-Resume builder designed to help students create structured and ATS-friendly resumes.
-
-**Tech Stack:** HTML • CSS • JavaScript
+**More projects:** 🐍 Python Snake Game · 🕐 Python Analog Clock · 📄 ATS-Friendly Resume Builder · 🛒 Amazon UI Clone
 
 ---
 
@@ -151,69 +128,15 @@ Resume builder designed to help students create structured and ATS-friendly resu
 
 </div>
 
----
-
-## 🧠 DSA Practice Tracker
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Arrays-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Strings-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Two%20Pointers-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sliding%20Window-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hashing-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Binary%20Search-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Recursion-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linked%20Lists-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stacks%20%26%20Queues-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Trees-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Graphs-00C853?style=flat-square"/>
-
-</div>
+<!-- Tip: add a real DSA proof here, for example a LeetCode stats badge or "120+ problems solved" with a link to your profile. -->
 
 ---
 
 ## 🏆 Hackathons & Technical Activities
 
-### 🏆 Smart India Hackathon
-
-Participated in **Smart India Hackathon**, working with a team to develop a technology-based solution for a real-world problem statement.
-
-### 🌐 IEEE College Technical Committee
-
-**Role: Webmaster**
-
-Contributing to the technical and web-related activities of the **IEEE College Technical Committee**, including:
-
-- 🌐 Website development
-- 🎨 UI improvements
-- 📱 Responsive design
-- 🔧 Technical implementation
-- 🤝 Collaboration with the technical team
-
-### 🏫 NSS & Tapas
-
-**Technical Committee Member**
-
-Contributing to technical activities, digital solutions and team-based college initiatives.
-
----
-
-## 🎯 Areas of Interest
-
-<div align="center">
-
-💻 **Full-Stack Development**  
-⚙️ **Backend Engineering**  
-🤖 **Artificial Intelligence & Machine Learning**  
-📊 **Data & Analytics**  
-🧠 **Data Structures & Algorithms**  
-🌐 **Web Development**  
-🚀 **Real-World Applications**  
-🔓 **Open Source**  
-📈 **Scalable Software Systems**
-
-</div>
+- 🏆 **Smart India Hackathon:** worked with a team to build a technology-based solution for a real-world problem statement.
+- 🌐 **Webmaster, IEEE Technical Committee:** website development, UI improvements, responsive design and technical implementation with the technical team.
+- 🏫 **Technical Committee Member, NSS & Tapas:** technical activities and digital solutions for team-based college initiatives.
 
 ---
 
@@ -222,63 +145,17 @@ Contributing to technical activities, digital solutions and team-based college i
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=namit27y-dotcom&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="48%"/>
-
 <img src="https://streak-stats.demolab.com?user=namit27y-dotcom&theme=vue-dark&hide_border=true" width="48%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namit27y-dotcom&theme=react-dark&hide_border=true" width="98%"/>
-
 </div>
 
 ---
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="./profile/trophy.svg" width="98%" alt="GitHub Trophies"/>
-
-</div>
-
----
 ## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/namit27y-dotcom/namit27y-dotcom/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-<p align="center">
-  🐍 Contribution activity generated automatically with GitHub Actions
-</p>
-## 🎯 2026 Goals
-
-- [x] Build real-world web applications
-- [x] Participate in hackathons
-- [x] Contribute to college technical activities
-- [x] Become **Webmaster — IEEE College Technical Committee**
-- [ ] Master Data Structures & Algorithms
-- [ ] Strengthen Backend Development
-- [ ] Learn AI/ML fundamentals
-- [ ] Build AI-powered applications
-- [ ] Contribute to Open Source
-- [ ] Secure a Software Engineering Internship
-
----
-
-## 💡 Current Focus
-
-<div align="center">
-
-**Full-Stack Development**  
-↓  
-**Data Structures & Algorithms**  
-↓  
-**AI / ML**  
-↓  
-**Open Source**  
-↓  
-**Building Real-World Products**
-
-</div>
 
 ---
 
@@ -289,13 +166,8 @@ Contributing to technical activities, digital solutions and team-based college i
 <a href="https://github.com/namit27y-dotcom">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/namit-yadav-b3516b392/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://campus-eats-ruby.vercel.app/">
-<img src="https://img.shields.io/badge/CampusEats-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
