@@ -19,10 +19,6 @@
 <img src="https://img.shields.io/badge/Live-Krishi%20Saathi-0077B5?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=namit27y-dotcom&style=for-the-badge&color=00C853" alt="Profile Views"/>
-
 </div>
 
 ---
