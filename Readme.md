@@ -51,16 +51,20 @@ My goal is to become a strong **Software Engineer** who builds practical, scalab
 
 <br/><br/>
 
-### 📊 Data, AI & Other
+### 📊 Data Analysis & Visualization
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
-</div>
-
----
+- Numerical computing and array operations with NumPy
+- Data cleaning, manipulation, and analysis with Pandas
+- Data visualization using Matplotlib and Seaborn
+- Exploratory Data Analysis (EDA)
 
 ## 🌟 Featured Projects
 
