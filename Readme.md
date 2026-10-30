@@ -76,18 +76,19 @@ I'm a **B.Tech Computer Science student** who enjoys turning ideas into working 
 - Server-side application logic
 - Backend integration with databases
 
-### 🗄️ Databases
+### 🗄️ Databases & Data Management
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Firebase and Supabase"/>
 
 </div>
 
-- MySQL and relational database fundamentals
-- SQL queries and data management
-- MongoDB fundamentals
-- Database integration with web applications
+- PostgreSQL – Relational database and SQL
+- MySQL – Relational database management
+- MongoDB – NoSQL database fundamentals
+- Firebase – Backend services
+- Supabase – PostgreSQL-based backend platform
 
 ### 📊 Data Analysis & Visualization
 
