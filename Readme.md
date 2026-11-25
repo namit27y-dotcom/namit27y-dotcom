@@ -17,7 +17,7 @@
 
 <div align="center">
 
-| 🎓 SGPA | 🌟 Current Role | 🏆 Achievement | 💼 Looking For |
+| 🎓 SGPI | 🌟 Current Role | 🏆 Achievement | 💼 Looking For |
 |:---:|:---:|:---:|:---:|
 | **9.18** | **Webmaster, IEEE Technical Committee** | Smart India Hackathon | **SDE Internships** |
 
